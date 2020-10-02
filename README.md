@@ -14,4 +14,5 @@ Make sure that the data_url variable is changed to match the location of the dat
 Instructions about how to run a streamlit app can be found [here](https://docs.streamlit.io/en/stable/cli.html)
 
 <p>
-  <img src="
+  <img src="display_gif.gif">
+</p>
