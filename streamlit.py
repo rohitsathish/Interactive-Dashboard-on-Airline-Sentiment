@@ -16,7 +16,7 @@ def load_data(data_url):
     data['tweet_created'] = pd.to_datetime(data['tweet_created'])
     return data
 
-data_url = 'C:/Users/user/Documents/Course Material and Projects/Coursera/Streamlit dashboards/Tweets.csv'
+data_url = './Tweets.csv'
 data = load_data(data_url)
 
 st.sidebar.subheader('Random Tweet')
